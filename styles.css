@@ -224,11 +224,13 @@ a, button, [role="button"] {
   margin-bottom: var(--space-6);
 }
 .hero-heading em {
+  display: inline-block;
   font-style: italic;
   background: linear-gradient(135deg, var(--color-primary), #c4b5fd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  padding-right: 0.5em;
 }
 
 .hero-sub {
