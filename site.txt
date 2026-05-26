@@ -1,0 +1,10 @@
+Title: Sylwia Olszewska – Coach DOBROstanu
+Description: Sylwia Olszewska – Coach DOBROstanu. Towarzyszę Ci w drodze do lepszego życia.
+
+Files:
+CNAME
+index.html
+scripts.js
+styles.css
+assets/logo.png
+assets/SylwiaOlszewska.png

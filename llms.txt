@@ -1,0 +1,33 @@
+# Sylwia Olszewska – Coach DOBROstanu
+
+Sylwia Olszewska is a Professional Certified Coach (PCC) accredited by the International Coach Federation (ICF). She specializes in supporting individuals through professional and personal transformations, focusing on well-being ("DOBROstan").
+
+## Professional Profile
+- **Accreditation:** ICF PCC (Professional Certified Coach).
+- **Background:** Extensive managerial experience in the financial industry, transitioning from team member to executive leadership.
+- **Approach:** Focuses on identity, emotions, needs, and overcoming blocks/limiting beliefs. Uses tools like DISC (certified facilitator) and Mindfulness.
+- **Education:** 
+    - Management & Marketing (Menedżerska Akademia Nauk Stosowanych, Warsaw).
+    - Postgraduate Coaching Studies (Uczelnia Łazarskiego).
+    - Team Coaching (House of Skills).
+    - Coaching Proficiency (CoachWise).
+
+## Key Content Sections
+- **About Me:** Details her journey from corporate management to professional coaching and her philosophy of "not putting yourself off for later."
+- **Articles:**
+    - *Miłość do siebie to podstawa, a nie nagroda* (Self-love as a foundation).
+    - *Później* (The dangers of procrastination).
+    - *Niezawodna czy niewidzialna?* (Balancing personal needs vs. others).
+    - *Jeżeli czekasz na kogoś...* (Taking agency over one's life).
+- **Services:** Professional coaching sessions, consultations, and team development.
+
+## Contact & Links
+- **Email:** coach@sylwiaolszewska.pl
+- **Consultations:** https://calendly.com/coachsylwiaolszewska/bezplatne-konsultacje
+- **Social Media:**
+    - LinkedIn: https://www.linkedin.com/in/olszewskasylwia/
+    - Facebook: https://www.facebook.com/CoachSylwiaOlszewska
+
+## Technical Info
+- **Website:** https://sylwiaolszewska.pl (implied by CNAME)
+- **Stack:** HTML5, Vanilla CSS, JavaScript.
